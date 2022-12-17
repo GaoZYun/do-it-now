@@ -31,4 +31,10 @@ streamlit run run.py
 
 ## 注意事项
 所有底层数据均用csv格式保存，别问我问啥·····
+另外，在使用前，你需要先在本地创建 csv 表格，格式为：
+|  task_name   | task_begin_date  |  task_end_date   | task_description  |  task_emergency   | task_energy  |  task_important   | task_status  | task_recording_motive_date  |
+|  ----  | ----  |  ----  | ----  |  ----  | ----  |  ----  | ----  |  ----  |
+| 示例task名  | 2022-1-1 | 2022-1-2  | 示例任务描述 | 🔥🔥  | 💪💪 | 🐮  | 已办（待办） | 2022-1-3  |
+
+冲冲冲
 
